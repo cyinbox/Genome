@@ -9,7 +9,7 @@
 % Email: cyin1@uic.edu
 % Last update 12/21/2017
 clear
-
+% The input is a fasta file containing genome sequences to be compared.
 % Note: the following fasta file, 'giantVirusGenome.fasta', contains the
 % DNA sequences of the following bacterium genBank access ids and names
 %{
