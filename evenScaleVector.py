@@ -4,9 +4,9 @@ Created on Mon Jan 15 09:31:51 2018
 
 @author: cyinbox@gmail.com
 
-Function to even scale numberical vector Tn (length N) to Tm (length M)
-Inputs: numberical serie: Tn, length to be scaled: M. Note: M can be larger or smaller than N.
-Output: even scaled numberical vector of length M
+Function to even scale numerical vector Tn (length N) to Tm (length M)
+Inputs: numerical series: Tn, length to be scaled: M. Note: M can be larger or smaller than N.
+Output: even scaled numerical vector of length M
 
 Citation:
 Yin, C., & Yau, S. S. T. (2015). An improved model for whole genome phylogenetic analysis by Fourier transform. 
