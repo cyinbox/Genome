@@ -84,7 +84,7 @@ for i=1:N
     seq1=Genes(i).Sequence;
     for j=i:N
         seq2=Genes(j).Sequence;
-        option=get2DMappingOptionSeq(seq1,seq2);
+        option=get2DMappingOption(seq1,seq2);
         distM(i,j)= getDistanceFFTSpace_ES2D(seq1,seq2,maxL,option);
     end
 end
